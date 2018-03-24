@@ -62,14 +62,6 @@
   height: 300px;
 }
 
-.first-item {
-  order: 1;
-}
-
-.last-item {
-  order: -1;
-}
-
 .social,
 .subscribe {
   align-self: flex-end;
